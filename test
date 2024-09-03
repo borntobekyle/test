@@ -1,0 +1,673 @@
+{
+  "unauthenticated": {
+    "logoSVGPath": "https://www.pingidentity.com/content/dam/picr/nav/Ping-Logo-2.svg",
+    "hideLanguagePicker": "false",
+    "pageSpecificLanguagePicker": "true",
+    "hideSearch": "false",
+    "coveoSearch": "true",
+    "languages": [
+      {
+        "code": "en",
+        "label": "English",
+        "labelShort": "ENG",
+        "path": "https://www.pingidentity.com/en.html",
+        "logoPath": "https://www.pingidentity.com/en.html",
+        "searchResultsPath": "https://support.pingidentity.com/s/global-search/%40uri",
+        "alertBanner": {
+          "label": "Join us at Ping YOUniverse for the unveiling of the future of identity. Register Now!",
+          "labelBold": "",
+          "path": "https://www.pingidentity.com/en/events/youniverse.html",
+          "className": "label--cta"
+        },
+        "mainNavs": [
+          {
+            "label": "Solutions",
+            "className": "disable-mobile-link",
+            "path": "https://google.com",
+            "childrenType": "SINGLE-COLUMN",
+            "children": [
+              {
+                "className": "arrow-right",
+                "label": "Solutions Overview",
+                "path": "https://www.pingidentity.com/en/solutions.html",
+                "childrenType": "GROUPED-COLUMN",
+                "children": [
+                  {
+                    "label": "By Business Priority",
+                    "path": "https://www.pingidentity.com/en/solutions/business-priority.html",
+                    "className": "nav-padding-left-0",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "Customer Identity",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/customer-identity.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Workforce Identity",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/secure-your-workforce.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "B2B Identity",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/b2b-identity.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Decentralized Identity",
+                        "path": "https://www.pingidentity.com/en/lp/ac/pingone-neo.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Passwordless Authentication",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/passwordless.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Implement Zero Trust",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/zero-trust.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Migrate to the Cloud",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/cloud-identity.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Modernize Legacy IAM",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/iam-modernization.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "IoT",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/iot.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Engage Your Customers",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/engage-your-customers.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Prevent Online Fraud",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/prevent-online-fraud.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Innovate Digital Experiences",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/innovate-digital-experiences.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Privacy and Consent",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/privacy-consent.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Mergers and Acquisitions",
+                        "path": "https://www.pingidentity.com/en/solutions/business-priority/mergers-acquisitions.html",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Industries",
+                    "path": "https://www.pingidentity.com/en/solutions/industry.html",
+                    "className": "nav-padding-left-0",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "Financial Services",
+                        "path": "https://www.pingidentity.com/en/solutions/industry/financial-services.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Healthcare",
+                        "path": "https://www.pingidentity.com/en/solutions/industry/healthcare.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Retail",
+                        "path": "https://www.pingidentity.com/en/solutions/industry/retail.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Manufacturing",
+                        "path": "https://www.pingidentity.com/en/solutions/industry/manufacturing.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Government",
+                        "path": "https://www.pingidentity.com/en/solutions/industry/government.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Media & Telco",
+                        "path": "https://www.pingidentity.com/en/solutions/industry/media-telco.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Automotive",
+                        "path": "https://www.pingidentity.com/en/solutions/industry/automotive.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Insurance",
+                        "path": "https://www.pingidentity.com/en/solutions/industry/insurance.html",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Products",
+            "className": "disable-mobile-link",
+            "path": "https://www.pingidentity.com/en/platform.html",
+            "childrenType": "SINGLE-COLUMN",
+            "children": [
+              {
+                "label": "Platform Overview",
+                "path": "https://www.pingidentity.com/en/platform.html",
+                "className": "red-bold  arrow-right ",
+                "childrenType": "GROUPED-COLUMN",
+                "children": [
+                  {
+                    "label": "Solution Packages",
+                    "path": "https://www.pingidentity.com/en/platform/solutions.html",
+                    "className": "nav-padding-left-0",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "PingOne for Customers",
+                        "path": "https://www.pingidentity.com/en/platform/solutions/pingone-for-customers.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "PingOne for Workforce",
+                        "path": "https://www.pingidentity.com/en/platform/solutions/pingone-for-workforce.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "PingOne Neo",
+                        "path": "https://www.pingidentity.com/en/lp/ac/pingone-neo.html",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Capabilities",
+                    "path": "https://www.pingidentity.com/en/platform/capabilities.html",
+                    "className": "nav-padding-left-0 ",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "Orchestration",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/identity-orchestration.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Threat Protection",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/threat-protection.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Identity Verification",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/identity-verification.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Digital Credentials",
+                        "path": "https://www.pingidentity.com/en/lp/ac/pingone-neo/credentialing.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Directory",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/directory.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Identity Management",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/identity-management.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Identity Governance",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/identity-governance.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Single Sign-On (SSO)",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/single-sign-on.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Multi-Factor Authentication (MFA)",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/multi-factor-authentication.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Authorization",
+                        "path": "https://www.pingidentity.com/en/platform/capabilities/authorization.html",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Pricing",
+                    "path": "https://www.pingidentity.com/en/platform/pricing.html",
+                    "className": "negative-padding-hack     red-bold     arrow-right     nav-padding-bottom-0",
+                    "childrenType": "GROUPED-COLUMN",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Customer Stories",
+            "path": "https://www.pingidentity.com/en/customer-stories.html",
+            "childrenType": "FULL-MENU",
+            "children": []
+          },
+          {
+            "label": "Resources",
+            "className": "disable-mobile-link",
+            "path": "https://www.pingidentity.com/en/resources.html",
+            "childrenType": "SINGLE-COLUMN",
+            "children": [
+              {
+                "label": "Resources Overview",
+                "className": "arrow-right",
+                "path": "https://www.pingidentity.com/en/resources.html",
+                "childrenType": "GROUPED-COLUMN",
+                "children": [
+                  {
+                    "label": "",
+                    "path": "",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "Documentation",
+                        "path": "https://docs.pingidentity.com",
+                        "className": "nav-padding-left-0",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Blog",
+                        "path": "https://www.pingidentity.com/en/resources/blog.html",
+                        "className": "nav-padding-left-0",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Integration Directory",
+                        "path": "https://support.pingidentity.com/s/marketplace-integration-home-page#sort=relevancy",
+                        "className": "nav-padding-left-0",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Software & Mobile App Downloads",
+                        "path": "https://www.pingidentity.com/en/resources/downloads.html",
+                        "className": "nav-padding-left-0",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Identity Fundamentals",
+                        "path": "https://www.pingidentity.com/en/resources/identity-fundamentals.html",
+                        "className": "nav-padding-left-0",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Cybersecurity Fundamentals",
+                        "path": "https://www.pingidentity.com/en/resources/cybersecurity-fundamentals.html",
+                        "className": "nav-padding-left-0",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Content Library",
+                    "path": "https://hub.pingidentity.com/",
+                    "className": "nav-padding-left-0",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "Demos",
+                        "path": "https://videos.pingidentity.com/category/videos/demos",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Webinars",
+                        "path": "https://www.pingidentity.com/en/company/upcoming-events/webinars.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "White Papers",
+                        "path": "https://hub.pingidentity.com/white-papers",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Analyst Reports",
+                        "path": "https://hub.pingidentity.com/analyst-reports",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Videos",
+                        "path": "https://videos.pingidentity.com/",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Datasheets",
+                        "path": "https://hub.pingidentity.com/datasheets",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Developers",
+            "className": "disable-mobile-link",
+            "path": "https://www.pingidentity.com/en/support/developer-center.html",
+            "childrenType": "SINGLE-COLUMN",
+            "children": [
+              {
+                "label": "Go to Developer Portal",
+                "className": "arrow-right",
+                "path": "https://www.pingidentity.com/en/support/developer-center.html",
+                "childrenType": "GROUPED-COLUMN",
+                "children": [
+                  {
+                    "label": "",
+                    "path": "",
+                    "className": "nav-padding-left-0",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "Developer Community Forum",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/support/developer-center.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Developer Tools",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/support/developer-center.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "DevOps",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/support/developer-center.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Cloud Containerization",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/resources/content-library/articles/cloud-containerization.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Github",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/support/developer-center.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "PingLabs",
+                        "className": "padding-nav-left-0",
+                        "path": "https://labs.pingidentity.com",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Company",
+            "className": "disable-mobile-link",
+            "path": "https://www.pingidentity.com/en/company.html",
+            "childrenType": "SINGLE-COLUMN",
+            "children": [
+              {
+                "label": "Company Overview",
+                "className": "arrow-right",
+                "path": "https://www.pingidentity.com/en/company.html",
+                "childrenType": "GROUPED-COLUMN",
+                "children": [
+                  {
+                    "label": "",
+                    "path": "",
+                    "className": "nav-padding-left-0",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "About Us",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/company/about-us.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Corporate Social Responsibility",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/company/championing-every-identity.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Leadership Team",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/company/leadership.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Careers",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/company/careers.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Trust Center",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/legal/trust-center.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Ping Newsroom",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/company/ping-newsroom.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Upcoming Events",
+                        "className": "padding-nav-left-0",
+                        "path": "https://www.pingidentity.com/en/company/upcoming-events.html",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Support",
+            "className": "disable-mobile-link",
+            "path": "https://support.pingidentity.com/s/",
+            "childrenType": "SINGLE-COLUMN",
+            "children": [
+              {
+                "className": "arrow-right",
+                "label": "Support Portal",
+                "path": "https://support.pingidentity.com/s/",
+                "childrenType": "GROUPED-COLUMN",
+                "children": [
+                  {
+                    "label": "Support Center",
+                    "path": "https://www.pingidentity.com/en/support/support-center.html",
+                    "className": "nav-padding-left-0",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "Community Q&A Forum",
+                        "path": "https://www.pingidentity.com/en/support/support-center.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Create a Case",
+                        "path": "https://www.pingidentity.com/en/support/support-center.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Documentation",
+                        "path": "https://docs.pingidentity.com/",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Training Platform",
+                        "path": "https://backstage.forgerock.com/university/",
+                        "childrenType": "LINK",
+                        "target": "_blank"
+                      },
+                      {
+                        "label": "Contact Us",
+                        "path": "https://www.pingidentity.com/en/support/contact-us.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Frequently Asked Questions",
+                        "path": "https://www.pingidentity.com/en/support/faq.html",
+                        "className": "padding-nav-bottom-24",
+                        "childrenType": "LINK"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Service Offerings",
+                    "path": "https://www.pingidentity.com/en/support/customer-care.html",
+                    "className": "nav-padding-left-0",
+                    "childrenType": "STANDARD-COLUMN",
+                    "children": [
+                      {
+                        "label": "Training Overview",
+                        "path": "https://www.pingidentity.com/en/support/customer-care.html#training",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Professional Services",
+                        "path": "https://www.pingidentity.com/en/support/professional-services.html",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Customer Support",
+                        "path": "https://www.pingidentity.com/en/support/customer-care.html#customer-support",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "Customer Success",
+                        "path": "https://www.pingidentity.com/en/support/customer-care.html#customer-success",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "className": "nav-soft-divider",
+                        "label": "     ",
+                        "childrenType": "LINK"
+                      },
+                      {
+                        "label": "US/NA (TOLL FREE)",
+                        "className": "sup-bold-text   padding-nav-left-0 padding-nav-top-24  ",
+                        "childrenType": "SUBHEADER"
+                      },
+                      {
+                        "label": "1-855-355-PING (7464)",
+                        "className": "sup-num-text   padding-nav-left-0",
+                        "childrenType": "PHONE"
+                      },
+                      {
+                        "label": "EMEA",
+                        "className": "sup-bold-text   padding-nav-left-0",
+                        "childrenType": "SUBHEADER"
+                      },
+                      {
+                        "label": "+44 (0) 808 196 0788",
+                        "className": "sup-num-text   padding-nav-left-0",
+                        "childrenType": "PHONE"
+                      },
+                      {
+                        "label": "APAC",
+                        "className": "sup-bold-text   padding-nav-left-0",
+                        "childrenType": "SUBHEADER"
+                      },
+                      {
+                        "label": "+61 1800370 672",
+                        "className": "sup-num-text   padding-nav-left-0",
+                        "childrenType": "PHONE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "upperNavs": [
+          {
+            "label": "Partners",
+            "path": "",
+            "className": "",
+            "children": [
+              {
+                "label": "Partners Main",
+                "path": "https://www.pingidentity.com/en/partner-with-us.html"
+              },
+              {
+                "label": "Partner Portal Login",
+                "path": "https://www.pingidentity.com/en/account/sign-on.html?retURL=/bin/pic/sso/community?retURL=/SiteLogin?returnURL=/PartnerPortal/s/"
+              },
+              {
+                "label": "Find a Partner",
+                "path": "https://support.pingidentity.com/s/partner-directory-home-page#sort=relevancy"
+              },
+              {
+                "label": "Become a Partner",
+                "path": "https://support.pingidentity.com/s/partner-application"
+              }
+            ]
+          }
+        ],
+        "signOnNav": {
+          "label": "Sign On",
+          "path": "https://www.pingidentity.com/bin/ping/signOnLink"
+        },
+        "accountNav": {
+          "label": "My Account",
+          "path": "https://support.pingidentity.com/s/"
+        },
+        "signOffNav": {
+          "label": "Sign Off",
+          "path": "https://support.pingidentity.com/PingIdentityLogoutPage"
+        },
+        "mobileCloseText": {
+          "label": "Close"
+        },
+        "buttons": [
+          {
+            "label": "Contact Sales",
+            "path": "https://www.pingidentity.com/en/company/contact-sales.html",
+            "className": "button--connect"
+          },
+          {
+            "label": "Try Ping",
+            "path": "https://www.pingidentity.com/en/try-ping.html",
+            "className": "button--demo"
+          }
+        ]
+      }
+    ]
+  }
+}
